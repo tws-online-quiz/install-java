@@ -3,7 +3,7 @@
 - 学习在系统中安装java环境
 
 ### 环境配置
-- 下载地址：http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+- 下载地址(包含linux，mac，windows)：http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 ### 练习描述
 
