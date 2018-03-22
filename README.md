@@ -1,9 +1,8 @@
 # 打造程序员的专业工作环境：安装Java
 ### 教学目标
-- 学习在系统中配置java环境
-
-### 环境配置
-- 下载地址(包含linux，mac，windows)：http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+- 掌握如何在系统中配置Java环境
+- 掌握如何在主流操作系统中配置Java环境
+- 掌握JDK安装与环境变量配置
 
 ### 练习描述
 - 在本地配置java环境
@@ -12,5 +11,4 @@
 
 
 ### 输出规范
-- 安装成功后，使用`javac -version`指令输出java版本
-- 将结果截图，命名文件为result.png
+- 项目中应包含result.png
